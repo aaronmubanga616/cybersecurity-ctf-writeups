@@ -1,0 +1,20 @@
+Original encrypted data
+        │
+        ▼
+cbdabldadbzlblzdzdzezczcczzczx
+        │
+        │ Caesar transformation
+        ▼
+gfhefphehfdpfpdhdhdidgdggddgdb
+        │
+        │ Split into pairs
+        ▼
+gf he fp he hf dp fp dh dh id gd gg dd gd db
+        │
+        │ a-p → 0-f
+        ▼
+65 74 5f 74 75 3f 5f 37 37 83 63 66 33 63 31
+        │
+        │ Hex → ASCII
+        ▼
+decoded text
